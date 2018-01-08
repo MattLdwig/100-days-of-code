@@ -30,3 +30,6 @@ Python Learn Path part 2. Conditionals and control flow + functions.
 ### R1D7
 An Introduction to Interactive Programming in Python - Week 0  Statements,
 expressions, variables.
+
+### R1D8
+An Introduction to Interactive Programming in Python - Week 1 - Functions.
