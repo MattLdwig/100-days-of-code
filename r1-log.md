@@ -33,3 +33,8 @@ expressions, variables.
 
 ### R1D8
 An Introduction to Interactive Programming in Python - Week 1 - Functions.
+
+### R1D9
+
+Setup my crypto blog with Gatsby. Following this [freecodecamp tutorial]
+(https://medium.freecodecamp.org/how-to-build-a-react-and-gatsby-powered-blog-in-about-10-minutes-625c35c06481)
