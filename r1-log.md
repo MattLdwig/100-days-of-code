@@ -41,3 +41,6 @@ Setup my crypto blog with Gatsby. Following this [freecodecamp tutorial]
 ### R1D10
 An Introduction to Interactive Programming in Python - Week 1 - Functions
 Practice Exercices.
+
+### R1D11
+Learn CSS Grid with [scrimba] (https://scrimba.com)
