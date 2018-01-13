@@ -44,3 +44,10 @@ Practice Exercices.
 
 ### R1D11
 Learn CSS Grid with [scrimba] (https://scrimba.com)
+
+### R1D12
+An Introduction to Interactive Programming in Python - Week 2 -
+Logic and Conditionals Exercices
+
+### R1D13
+Review of CSS Grid with MDN. Recreate blog’s article layout with CSS Grid.
