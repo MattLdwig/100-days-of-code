@@ -51,3 +51,6 @@ Logic and Conditionals Exercices
 
 ### R1D13
 Review of CSS Grid with MDN. Recreate blog’s article layout with CSS Grid.
+
+### R1D14
+An Introduction to Interactive Programming in Python - Week 1 - RPSLS Mini-project
