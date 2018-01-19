@@ -57,3 +57,16 @@ An Introduction to Interactive Programming in Python - Week 1 - RPSLS Mini-proje
 
 ### R1D15
 Coincoin blog Layout creation + Struggling with Windows Build Tools
+
+### R1D16
+Completely finished the layout of my blog & adjust some tiny things (fonts, line-height, margins...).
+
+### R1D17
+Finished my chrome extension's MVP.
+
+### R1D18
+Intro to Interactive Apps in Python (+ practice exercises)
+
+### R1D19
+An Introduction to Interactive Programming in Python - 
+Practice Exercices Buttons & Inputs + Mini project "Guess the Number!"
