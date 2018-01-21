@@ -68,8 +68,11 @@ Finished my chrome extension's MVP.
 Intro to Interactive Apps in Python (+ practice exercises)
 
 ### R1D19
-An Introduction to Interactive Programming in Python - 
+An Introduction to Interactive Programming in Python -
 Practice Exercices Buttons & Inputs + Mini project "Guess the Number!"
 
 ### R1D20
 Refactoring CSS (blog). Setup Hugo & Firebase.
+
+### R1D21
+Finished version 1.0 of my crypto blog powered by Gatsby.  
