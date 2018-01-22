@@ -76,3 +76,6 @@ Refactoring CSS (blog). Setup Hugo & Firebase.
 
 ### R1D21
 Finished version 1.0 of my crypto blog powered by Gatsby.  
+
+### R1D22
+Discovery of VueJS with this awesome course by @maxedapps : https://www.udemy.com/vuejs-2-the-complete-guide   
