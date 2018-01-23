@@ -79,3 +79,6 @@ Finished version 1.0 of my crypto blog powered by Gatsby.
 
 ### R1D22
 Discovery of VueJS with this awesome course by @maxedapps : https://www.udemy.com/vuejs-2-the-complete-guide   
+
+### R1D23
+Keep going on VueJS course - Part 2 - Computed Properties and Dynamic Styling.
