@@ -82,3 +82,7 @@ Discovery of VueJS with this awesome course by @maxedapps : https://www.udemy.co
 
 ### R1D23
 Keep going on VueJS course - Part 2 - Computed Properties and Dynamic Styling.
+
+### R1D24
+Introduction to Interactive Programming in Python - Week 3 - Drawing and Timers
+(Courses + Pratice Exercises)
