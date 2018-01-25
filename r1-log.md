@@ -86,3 +86,7 @@ Keep going on VueJS course - Part 2 - Computed Properties and Dynamic Styling.
 ### R1D24
 Introduction to Interactive Programming in Python - Week 3 - Drawing and Timers
 (Courses + Pratice Exercises)
+
+### R1D25
+Introduction to Interactive Programming in Python - Week 3 - Stop Watch Game
+Mini project development.
