@@ -90,3 +90,7 @@ Introduction to Interactive Programming in Python - Week 3 - Drawing and Timers
 ### R1D25
 Introduction to Interactive Programming in Python - Week 3 - Stop Watch Game
 Mini project development.
+
+### R1D26
+Vue JS Course part 3 : Conditionals & Rendering List + Started First Course
+Project : 'The Monster Slayer'.
