@@ -94,3 +94,6 @@ Mini project development.
 ### R1D26
 Vue JS Course part 3 : Conditionals & Rendering List + Started First Course
 Project : 'The Monster Slayer'.
+
+### R1D27
+Vue JS Course - Completed the First Project : 'The Monster Slayer'.
