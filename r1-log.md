@@ -97,3 +97,6 @@ Project : 'The Monster Slayer'.
 
 ### R1D27
 Vue JS Course - Completed the First Project : 'The Monster Slayer'.
+
+### R1D28
+Vue JS - Methods vs Computed vs Watch. Back to notions & practice exercices.
