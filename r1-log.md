@@ -100,3 +100,7 @@ Vue JS Course - Completed the First Project : 'The Monster Slayer'.
 
 ### R1D28
 Vue JS - Methods vs Computed vs Watch. Back to notions & practice exercices.
+
+### R1D29
+Introduction to Interactive Programming in Python - Week 4 - Basic of Lists
+& Keyboard Control - Videos & practice exercices.
