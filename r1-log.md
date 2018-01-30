@@ -104,3 +104,6 @@ Vue JS - Methods vs Computed vs Watch. Back to notions & practice exercices.
 ### R1D29
 Introduction to Interactive Programming in Python - Week 4 - Basic of Lists
 & Keyboard Control - Videos & practice exercices.
+
+### R1D30
+VueJS course part 5 & 6 - Understanding the Vue Instance & Vue CLI
