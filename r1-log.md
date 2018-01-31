@@ -107,3 +107,8 @@ Introduction to Interactive Programming in Python - Week 4 - Basic of Lists
 
 ### R1D30
 VueJS course part 5 & 6 - Understanding the Vue Instance & Vue CLI
+
+### R1D31
+
+Introduction to Interactive Programming in Python - Completed course & working on 'Pong' miniproject.  
+
