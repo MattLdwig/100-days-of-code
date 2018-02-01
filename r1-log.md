@@ -112,3 +112,6 @@ VueJS course part 5 & 6 - Understanding the Vue Instance & Vue CLI
 
 Introduction to Interactive Programming in Python - Completed course & working on 'Pong' miniproject.  
 
+### R1D32
+
+Introduction to Interactive Programming in Python - Completed Pong miniproject.
