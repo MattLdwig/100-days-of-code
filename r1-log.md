@@ -109,9 +109,11 @@ Introduction to Interactive Programming in Python - Week 4 - Basic of Lists
 VueJS course part 5 & 6 - Understanding the Vue Instance & Vue CLI
 
 ### R1D31
-
 Introduction to Interactive Programming in Python - Completed course & working on 'Pong' miniproject.  
 
 ### R1D32
-
 Introduction to Interactive Programming in Python - Completed Pong miniproject.
+
+
+### R1D33
+VueJS course part 7 - Components
