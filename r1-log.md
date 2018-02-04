@@ -114,6 +114,8 @@ Introduction to Interactive Programming in Python - Completed course & working o
 ### R1D32
 Introduction to Interactive Programming in Python - Completed Pong miniproject.
 
-
 ### R1D33
 VueJS course part 7 - Components
+
+### R1D34
+Review of VueJS concepts for the week. Creation and use of components - Practical exercises.
