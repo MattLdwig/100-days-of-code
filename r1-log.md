@@ -123,3 +123,7 @@ Review of VueJS concepts for the week. Creation and use of components - Practica
 ### R1D35
 Review of VueJS concepts part 2. Communication between Components -
 Props, Custom Events & eventBus. 
+
+### R1D36
+
+VueJS pratical exercices - EventBus and communication between components.
