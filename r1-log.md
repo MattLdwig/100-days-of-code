@@ -135,3 +135,8 @@ More practical exercises concerning the creation of components and communication
 ### R1D38
 
 VueJS Advanced Components - Slots & Dynamic Components - Course and practical exercices.
+
+### R1D39
+
+VueJS Course - Second project completed:"Wonderful Quotes" - 
+Focus on creating components, communicating with each other and using slots. 
