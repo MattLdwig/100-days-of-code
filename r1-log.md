@@ -140,3 +140,8 @@ VueJS Advanced Components - Slots & Dynamic Components - Course and practical ex
 
 VueJS Course - Second project completed:"Wonderful Quotes" - 
 Focus on creating components, communicating with each other and using slots. 
+
+### R1D40
+
+VueJS Course - Second project completed:"Wonderful Quotes" - 
+Focus on creating components, communicating with each other and using slots. 
