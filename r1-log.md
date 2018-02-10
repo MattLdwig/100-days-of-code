@@ -143,5 +143,9 @@ Focus on creating components, communicating with each other and using slots.
 
 ### R1D40
 
-VueJS Course - Second project completed:"Wonderful Quotes" - 
-Focus on creating components, communicating with each other and using slots. 
+Day 40 of [#100DaysOfCode](https://twitter.com/search?q=%23100DaysOfCode) || VueJS - Review of the week and pratical exercices. Ready for the next step.
+
+### R1D41
+
+Starting my first Vue app. Nothing more than a simple todo web app, but a good way to recall all the concepts I've learned so far. Dynamic components, props, methods, component's communication... 
+
