@@ -155,4 +155,4 @@ Continuing my minimalist To-do app with VueJS. Add some methods today (mark as c
 
 ### R1D43
 
-VueJS Course - Handling User Input with Forms Section. A lot of useful info in this modile, which should help me in my todo app.
+VueJS Course - Handling User Input with Forms Section. A lot of useful info in this module, which should help me in my todo app.
