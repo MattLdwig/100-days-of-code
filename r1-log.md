@@ -149,3 +149,10 @@ Day 40 of [#100DaysOfCode](https://twitter.com/search?q=%23100DaysOfCode) || Vue
 
 Starting my first Vue app. Nothing more than a simple todo web app, but a good way to recall all the concepts I've learned so far. Dynamic components, props, methods, component's communication... 
 
+### R1D42
+
+Continuing my minimalist To-do app with VueJS. Add some methods today (mark as completed, delete task ...) and play with scoped css.
+
+### R1D43
+
+VueJS Course - Handling User Input with Forms Section. A lot of useful info in this modile, which should help me in my todo app.
