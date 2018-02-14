@@ -156,3 +156,11 @@ Continuing my minimalist To-do app with VueJS. Add some methods today (mark as c
 ### R1D43
 
 VueJS Course - Handling User Input with Forms Section. A lot of useful info in this module, which should help me in my todo app.
+
+### R1D44
+
+Change my blog layout this morning. Work with Gastby and a lot of CSS formatting.
+
+### R1D45
+
+VueJS Course (udemy) - Using and Creating Directives module. Very good explanations on how directives work and how to create custom ones. I've a better understanding on the Vue's internal mecanical now.
