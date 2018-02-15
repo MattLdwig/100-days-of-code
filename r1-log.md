@@ -164,3 +164,7 @@ Change my blog layout this morning. Work with Gastby and a lot of CSS formatting
 ### R1D45
 
 VueJS Course (udemy) - Using and Creating Directives module. Very good explanations on how directives work and how to create custom ones. I've a better understanding on the Vue's internal mecanical now.
+
+### R1D46
+
+VueJS Course (udemy) - Filters & mixins module today. Some changes & a bit of refactoring on a React + Wordpress Blog for a relative too.
