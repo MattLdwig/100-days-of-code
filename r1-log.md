@@ -168,3 +168,7 @@ VueJS Course (udemy) - Using and Creating Directives module. Very good explanati
 ### R1D46
 
 VueJS Course (udemy) - Filters & mixins module today. Some changes & a bit of refactoring on a React + Wordpress Blog for a relative too.
+
+### R1D47
+
+Improvement of my todo application with Vue. Used some things learned this week (user inputs - filters and mixins) to improve it. I made a Kata on CodeWars too.
