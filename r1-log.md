@@ -172,3 +172,7 @@ VueJS Course (udemy) - Filters & mixins module today. Some changes & a bit of re
 ### R1D47
 
 Improvement of my todo application with Vue. Used some things learned this week (user inputs - filters and mixins) to improve it. I made a Kata on CodeWars too.
+
+### R1D48
+
+Fighting a Codewars Kata and some revisions on Vue today.  
