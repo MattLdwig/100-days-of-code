@@ -176,3 +176,7 @@ Improvement of my todo application with Vue. Used some things learned this week 
 ### R1D48
 
 Fighting a Codewars Kata and some revisions on Vue today.  
+
+### R1D49
+
+VueJS Course - Review of exercises from previous modules. Styling, lists & conditionals.  
