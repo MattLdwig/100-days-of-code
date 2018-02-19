@@ -180,3 +180,7 @@ Fighting a Codewars Kata and some revisions on Vue today.
 ### R1D49
 
 VueJS Course - Review of exercises from previous modules. Styling, lists & conditionals.  
+
+### R1D50
+
+VueJS Course - Start of the animation module and continuation of summary exercises 
