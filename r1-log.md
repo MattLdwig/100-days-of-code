@@ -188,3 +188,7 @@ VueJS Course - Start of the animation module and continuation of summary exercis
 ### R1D51
 
 VueJS Course - Follow-up of the animation module. A bunch of new stuff to integrate. Transitions - animations - CSS classes and JS Hooks ...  Started a clone of Anki (simplified) made with Vue for training. 
+
+### R1D52
+
+VueJS Course - Finished the animation module. Follow-up of my simplified clone of Anki for review my english vocabulary.
