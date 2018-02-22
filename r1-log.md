@@ -192,3 +192,7 @@ VueJS Course - Follow-up of the animation module. A bunch of new stuff to integr
 ### R1D52
 
 VueJS Course - Finished the animation module. Follow-up of my simplified clone of Anki for review my english vocabulary.
+
+### R1D53
+
+VueJS Course - Connecting to Servers module. Vue-resource, intercepting requests & responses, creating custom resources ...  Made another Kata on Codewars and start looking at using PineScript on TradingView. Pretty good day !
