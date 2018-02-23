@@ -196,3 +196,7 @@ VueJS Course - Finished the animation module. Follow-up of my simplified clone o
 ### R1D53
 
 VueJS Course - Connecting to Servers module. Vue-resource, intercepting requests & responses, creating custom resources ...  Made another Kata on Codewars and start looking at using PineScript on TradingView. Pretty good day !
+
+### R1D54
+
+VueJS - Repeat the exercises on forms & filters to be sure that I'm comfortable with it. Also practice on HTTP request with vue-resource. 
