@@ -200,3 +200,7 @@ VueJS Course - Connecting to Servers module. Vue-resource, intercepting requests
 ### R1D54
 
 VueJS - Repeat the exercises on forms & filters to be sure that I'm comfortable with it. Also practice on HTTP request with vue-resource. 
+
+### R1D55 
+
+VueJS - Back to the practical exercises on directives. And 2 little Katas on Codewars as a bonus.
