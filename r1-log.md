@@ -208,3 +208,7 @@ VueJS - Back to the practical exercises on directives. And 2 little Katas on Cod
 ### R1D56
 
 Sunday's Katas ! Completed a bunch of challenges on Codewars. A good way to review the basics and to learn new things. Practice `.trim()`, `.map()`, `.filter` and ES6 syntax. 
+
+### R1D57
+
+VueJS - Started Vue Routing Module. Learned to properly configure and use Routes, navigate in single page app with `<router-link>` and setting up Route parameters. 
