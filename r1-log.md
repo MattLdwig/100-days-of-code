@@ -212,3 +212,7 @@ Sunday's Katas ! Completed a bunch of challenges on Codewars. A good way to revi
 ### R1D57
 
 VueJS - Started Vue Routing Module. Learned to properly configure and use Routes, navigate in single page app with `<router-link>` and setting up Route parameters. 
+
+### R1D58
+
+VueJS - Completed Vue Routing Module. Nested Routes, redirection, multiple Router Views, route protection... Time to practice now.
