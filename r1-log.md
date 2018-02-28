@@ -216,3 +216,7 @@ VueJS - Started Vue Routing Module. Learned to properly configure and use Routes
 ### R1D58
 
 VueJS - Completed Vue Routing Module. Nested Routes, redirection, multiple Router Views, route protection... Time to practice now.
+
+### R1D59
+
+Struggled for quite some time with the Tortoise Racing Kata today (JS) before finding a solution with modular arithmetics.  A quick look back to directives too.
