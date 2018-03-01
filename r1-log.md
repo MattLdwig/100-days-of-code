@@ -220,3 +220,7 @@ VueJS - Completed Vue Routing Module. Nested Routes, redirection, multiple Route
 ### R1D59
 
 Struggled for quite some time with the Tortoise Racing Kata today (JS) before finding a solution with modular arithmetics.  A quick look back to directives too.
+
+### R1D60
+
+VueJS - Completed Vuex Module. Learned a lot about states, getters, mutations and actions. 
