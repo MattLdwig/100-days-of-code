@@ -224,3 +224,7 @@ Struggled for quite some time with the Tortoise Racing Kata today (JS) before fi
 ### R1D60
 
 VueJS - Completed Vuex Module. Learned a lot about states, getters, mutations and actions. 
+
+### R1D61
+
+Completed Split Strings Kata on Codewars and working on Weight for weight. Also completed the first part of Grid Critters.
