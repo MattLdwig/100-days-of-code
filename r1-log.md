@@ -228,3 +228,11 @@ VueJS - Completed Vuex Module. Learned a lot about states, getters, mutations an
 ### R1D61
 
 Completed Split Strings Kata on Codewars and working on Weight for weight. Also completed the first part of Grid Critters.
+
+### R1D61
+
+Completed Split Strings Kata on Codewars and working on Weight for weight. Also completed the first part of Grid Critters.
+
+### R1D62
+
+Weight for weight Kata completed. Starting to work on a little Vue app to help me to organize my garden.
