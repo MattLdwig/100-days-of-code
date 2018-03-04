@@ -236,3 +236,7 @@ Completed Split Strings Kata on Codewars and working on Weight for weight. Also 
 ### R1D62
 
 Weight for weight Kata completed. Starting to work on a little Vue app to help me to organize my garden.
+
+### R1D63
+
+Human Readable Time Kata completed. Starting my first Kata in Python.
