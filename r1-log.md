@@ -240,3 +240,7 @@ Weight for weight Kata completed. Starting to work on a little Vue app to help m
 ### R1D63
 
 Human Readable Time Kata completed. Starting my first Kata in Python.
+
+### R1D64
+
+VueJS course - Last project started (Stock Trader). Setup structure, routes & navigation. Creating some components (Portfolio, Stocks, Resume...) and setup communication between them.
