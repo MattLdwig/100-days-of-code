@@ -244,3 +244,7 @@ Human Readable Time Kata completed. Starting my first Kata in Python.
 ### R1D64
 
 VueJS course - Last project started (Stock Trader). Setup structure, routes & navigation. Creating some components (Portfolio, Stocks, Resume...) and setup communication between them.
+
+### R1D65
+
+Working on Stock Trader App. Setting up all the Vuex State Management. State, mutations, actions & getters.
