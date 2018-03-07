@@ -248,3 +248,7 @@ VueJS course - Last project started (Stock Trader). Setup structure, routes & na
 ### R1D65
 
 Working on Stock Trader App. Setting up all the Vuex State Management. State, mutations, actions & getters.
+
+### R1D66
+
+Completed the' Trader Stock' project today. Last part of the logic and Implementation of communication with Firebase.
