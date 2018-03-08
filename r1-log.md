@@ -251,4 +251,8 @@ Working on Stock Trader App. Setting up all the Vuex State Management. State, mu
 
 ### R1D66
 
-Completed the' Trader Stock' project today. Last part of the logic and Implementation of communication with Firebase.
+Completed the' Trader Stock' project today. Last part of the logic and Implementation of communication with Firebase
+
+### R1D67
+
+Learned to use Axios instead of Vue Resource for HTTP Requests. Also started to learn about Authentication in Vue Apps.
