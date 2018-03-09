@@ -256,3 +256,7 @@ Completed the' Trader Stock' project today. Last part of the logic and Implement
 ### R1D67
 
 Learned to use Axios instead of Vue Resource for HTTP Requests. Also started to learn about Authentication in Vue Apps.
+
+### R1D68
+
+Start of my trading journal project with Vue and Firebase. Project setup, routes and main components creation. 
