@@ -138,8 +138,8 @@ VueJS Advanced Components - Slots & Dynamic Components - Course and practical ex
 
 ### R1D39
 
-VueJS Course - Second project completed:"Wonderful Quotes" - 
-Focus on creating components, communicating with each other and using slots. 
+VueJS Course - Second project completed:"Wonderful Quotes" -
+Focus on creating components, communicating with each other and using slots.
 
 ### R1D40
 
@@ -147,7 +147,7 @@ Day 40 of [#100DaysOfCode](https://twitter.com/search?q=%23100DaysOfCode) || Vue
 
 ### R1D41
 
-Starting my first Vue app. Nothing more than a simple todo web app, but a good way to recall all the concepts I've learned so far. Dynamic components, props, methods, component's communication... 
+Starting my first Vue app. Nothing more than a simple todo web app, but a good way to recall all the concepts I've learned so far. Dynamic components, props, methods, component's communication...
 
 ### R1D42
 
@@ -183,11 +183,11 @@ VueJS Course - Review of exercises from previous modules. Styling, lists & condi
 
 ### R1D50
 
-VueJS Course - Start of the animation module and continuation of summary exercises 
+VueJS Course - Start of the animation module and continuation of summary exercises
 
 ### R1D51
 
-VueJS Course - Follow-up of the animation module. A bunch of new stuff to integrate. Transitions - animations - CSS classes and JS Hooks ...  Started a clone of Anki (simplified) made with Vue for training. 
+VueJS Course - Follow-up of the animation module. A bunch of new stuff to integrate. Transitions - animations - CSS classes and JS Hooks ...  Started a clone of Anki (simplified) made with Vue for training.
 
 ### R1D52
 
@@ -199,19 +199,19 @@ VueJS Course - Connecting to Servers module. Vue-resource, intercepting requests
 
 ### R1D54
 
-VueJS - Repeat the exercises on forms & filters to be sure that I'm comfortable with it. Also practice on HTTP request with vue-resource. 
+VueJS - Repeat the exercises on forms & filters to be sure that I'm comfortable with it. Also practice on HTTP request with vue-resource.
 
-### R1D55 
+### R1D55
 
 VueJS - Back to the practical exercises on directives. And 2 little Katas on Codewars as a bonus.
 
 ### R1D56
 
-Sunday's Katas ! Completed a bunch of challenges on Codewars. A good way to review the basics and to learn new things. Practice `.trim()`, `.map()`, `.filter` and ES6 syntax. 
+Sunday's Katas ! Completed a bunch of challenges on Codewars. A good way to review the basics and to learn new things. Practice `.trim()`, `.map()`, `.filter` and ES6 syntax.
 
 ### R1D57
 
-VueJS - Started Vue Routing Module. Learned to properly configure and use Routes, navigate in single page app with `<router-link>` and setting up Route parameters. 
+VueJS - Started Vue Routing Module. Learned to properly configure and use Routes, navigate in single page app with `<router-link>` and setting up Route parameters.
 
 ### R1D58
 
@@ -223,7 +223,7 @@ Struggled for quite some time with the Tortoise Racing Kata today (JS) before fi
 
 ### R1D60
 
-VueJS - Completed Vuex Module. Learned a lot about states, getters, mutations and actions. 
+VueJS - Completed Vuex Module. Learned a lot about states, getters, mutations and actions.
 
 ### R1D61
 
@@ -259,4 +259,8 @@ Learned to use Axios instead of Vue Resource for HTTP Requests. Also started to 
 
 ### R1D68
 
-Start of my trading journal project with Vue and Firebase. Project setup, routes and main components creation. 
+Start of my trading journal project with Vue and Firebase. Project setup, routes and main components creation.
+
+### R1D69
+
+Trading Journal - Setup communication with Firebase with Axios. Post & Get trade from database and display them into table.
