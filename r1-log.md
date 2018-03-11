@@ -263,4 +263,8 @@ Start of my trading journal project with Vue and Firebase. Project setup, routes
 
 ### R1D69
 
-Trading Journal - Setup communication with Firebase with Axios. Post & Get trade from database and display them into table.
+Trading Journal - Setup communication with Firebase and Axios. Post & Get trades from database and display them into table.
+
+### R1D70
+
+Trading Journal - Get data from coinmarketcap API. Start to setup states, mutations and actions with Vuex.
