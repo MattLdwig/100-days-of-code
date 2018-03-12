@@ -268,3 +268,7 @@ Trading Journal - Setup communication with Firebase and Axios. Post & Get trades
 ### R1D70
 
 Trading Journal - Get data from coinmarketcap API. Start to setup states, mutations and actions with Vuex.
+
+### R1D71
+
+Trading Journal - Refactoring my app. Fetch data with Vuex actions and store them with getters, states & mutations. 
