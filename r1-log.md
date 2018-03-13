@@ -272,3 +272,7 @@ Trading Journal - Get data from coinmarketcap API. Start to setup states, mutati
 ### R1D71
 
 Trading Journal - Refactoring my app. Fetch data with Vuex actions and store them with getters, states & mutations. 
+
+### R1D72
+
+Trading Journal - Filter trades according to their status and add the update function of a trade on Firebase.
