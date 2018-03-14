@@ -276,3 +276,6 @@ Trading Journal - Refactoring my app. Fetch data with Vuex actions and store the
 ### R1D72
 
 Trading Journal - Filter trades according to their status and add the update function of a trade on Firebase.
+
+### R1D73
+Python Word Count program. Learn to use more deeply the Command Line (stdin, stdout, stderr, copy & move files, move, sort...)
