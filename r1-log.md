@@ -279,3 +279,7 @@ Trading Journal - Filter trades according to their status and add the update fun
 
 ### R1D73
 Python Word Count program. Learn to use more deeply the Command Line (stdin, stdout, stderr, copy & move files, move, sort...)
+
+### R1D74
+
+Played with CSS today. Picked this UI from @alisaayeed on Dribbble and rebuild it with CSS grid and some tricks. https://dribbble.com/shots/4348781-Conceptual-Web-UI-Exploration
