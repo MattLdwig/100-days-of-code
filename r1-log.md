@@ -283,3 +283,7 @@ Python Word Count program. Learn to use more deeply the Command Line (stdin, std
 ### R1D74
 
 Played with CSS today. Picked this UI from @alisaayeed on Dribbble and rebuild it with CSS grid and some tricks. https://dribbble.com/shots/4348781-Conceptual-Web-UI-Exploration
+
+### R1D75
+
+Used my joker yesterday (breaking my right arm). Today, solved my first Kata in Python:  Counting Duplicates. 
