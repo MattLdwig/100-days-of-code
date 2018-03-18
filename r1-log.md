@@ -287,3 +287,7 @@ Played with CSS today. Picked this UI from @alisaayeed on Dribbble and rebuild i
 ### R1D75
 
 Used my joker yesterday (breaking my right arm). Today, solved my first Kata in Python:  Counting Duplicates. 
+
+### R176
+
+Learned how to manipulate files more precisely via the command line. Use of pipes and filters. Transormations and visualization via grep, head, tail, sed and paste.  
