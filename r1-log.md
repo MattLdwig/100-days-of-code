@@ -291,3 +291,7 @@ Used my joker yesterday (breaking my right arm). Today, solved my first Kata in 
 ### R176
 
 Learned how to manipulate files more precisely via the command line. Use of pipes and filters. Transormations and visualization via grep, head, tail, sed and paste.  
+
+### R177
+
+Solved the Kata : Find Missing Letter with Python and continued exploration of CLI. 
