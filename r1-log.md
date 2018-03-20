@@ -295,3 +295,7 @@ Learned how to manipulate files more precisely via the command line. Use of pipe
 ### R177
 
 Solved the Kata : Find Missing Letter with Python and continued exploration of CLI. 
+
+### R178
+
+Solved the Kata : Duplicate Encode with Python and first exploration of Jupyter Notebook. 
