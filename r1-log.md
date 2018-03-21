@@ -299,3 +299,7 @@ Solved the Kata : Find Missing Letter with Python and continued exploration of C
 ### R178
 
 Solved the Kata : Duplicate Encode with Python and first exploration of Jupyter Notebook. 
+
+### R179
+
+FreeCodeCamp Front-end path : Development of the main TicTacToe interface and first logic pieces.
