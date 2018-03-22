@@ -303,3 +303,7 @@ Solved the Kata : Duplicate Encode with Python and first exploration of Jupyter 
 ### R179
 
 FreeCodeCamp Front-end path : Development of the main TicTacToe interface and first logic pieces.
+
+### R180
+
+TicTacToe with JS - Switch  from JS / jQuery to Vue and setup the main logic of the game.
