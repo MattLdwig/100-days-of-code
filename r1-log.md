@@ -307,3 +307,7 @@ FreeCodeCamp Front-end path : Development of the main TicTacToe interface and fi
 ### R180
 
 TicTacToe with JS - Switch  from JS / jQuery to Vue and setup the main logic of the game.
+
+### R181
+
+TicTacToe with JS - Starting to work on the minmax algorithm. Complete two more Katas with Python too.
