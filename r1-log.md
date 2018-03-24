@@ -311,3 +311,7 @@ TicTacToe with JS - Switch  from JS / jQuery to Vue and setup the main logic of 
 ### R181
 
 TicTacToe with JS - Starting to work on the minmax algorithm. Complete two more Katas with Python too.
+
+### R182
+
+TicTacToe with JS - Continue working on minmax algorithm & 1st chapter of CrypoZombies.
