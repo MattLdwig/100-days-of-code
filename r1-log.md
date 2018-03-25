@@ -315,3 +315,7 @@ TicTacToe with JS - Starting to work on the minmax algorithm. Complete two more 
 ### R182
 
 TicTacToe with JS - Continue working on minmax algorithm & 1st chapter of CrypoZombies.
+
+### R183
+
+Python - First steps with NumPy. Creation & manipulation of n-dimensional arrays.
