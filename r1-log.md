@@ -319,3 +319,7 @@ TicTacToe with JS - Continue working on minmax algorithm & 1st chapter of CrypoZ
 ### R183
 
 Python - First steps with NumPy. Creation & manipulation of n-dimensional arrays.
+
+### R184
+
+Python - Numpy - Data manipulation & Broadcasting. Continue working on my TicTacToe app.
