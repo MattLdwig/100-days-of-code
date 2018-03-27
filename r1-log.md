@@ -323,3 +323,7 @@ Python - First steps with NumPy. Creation & manipulation of n-dimensional arrays
 ### R184
 
 Python - Numpy - Data manipulation & Broadcasting. Continue working on my TicTacToe app.
+
+### R185
+
+Python - Numpy Revisions & practical exercices. Chapter 2 of CryptoZombies.
