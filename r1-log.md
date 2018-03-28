@@ -326,4 +326,8 @@ Python - Numpy - Data manipulation & Broadcasting. Continue working on my TicTac
 
 ### R185
 
-Python - Numpy Revisions & practical exercices. Chapter 2 of CryptoZombies.
+Python - Numpy Revisions & practical exercises. Chapter 2 of CryptoZombies.
+
+### R186
+
+Python - Practical Exercises. Solidity - Contracts, Functions & variables revisions.
