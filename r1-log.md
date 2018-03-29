@@ -331,3 +331,7 @@ Python - Numpy Revisions & practical exercises. Chapter 2 of CryptoZombies.
 ### R186
 
 Python - Practical Exercises. Solidity - Contracts, Functions & variables revisions.
+
+### R187
+
+Python - Practical Exercises and Chapter 3 of CryptoZombies.
