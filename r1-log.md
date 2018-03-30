@@ -335,3 +335,10 @@ Python - Practical Exercises. Solidity - Contracts, Functions & variables revisi
 ### R187
 
 Python - Practical Exercises and Chapter 3 of CryptoZombies.
+
+### R188
+
+Python - Practical Exercises and Chapter 4 of CryptoZombies.
+
+
+
