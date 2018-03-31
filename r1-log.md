@@ -340,5 +340,9 @@ Python - Practical Exercises and Chapter 3 of CryptoZombies.
 
 Python - Practical Exercises and Chapter 4 of CryptoZombies.
 
+### R189
+
+Chapter 5 of CryptoZombies. Brilliant introduction to Solidity.  
+
 
 
