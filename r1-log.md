@@ -344,5 +344,9 @@ Python - Practical Exercises and Chapter 4 of CryptoZombies.
 
 Chapter 5 of CryptoZombies. Brilliant introduction to Solidity.  
 
+### R190
+
+Setup my personal wiki with Hugo & Firebase.
+
 
 
