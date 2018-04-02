@@ -348,5 +348,9 @@ Chapter 5 of CryptoZombies. Brilliant introduction to Solidity.
 
 Setup my personal wiki with Hugo & Firebase.
 
+### R191
+
+Completed the first exercises of'Learn Python the Hard Way', reviewed my Solidity courses and worked a bit on my trading script.
+
 
 
