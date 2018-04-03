@@ -352,5 +352,7 @@ Setup my personal wiki with Hugo & Firebase.
 
 Completed the first exercises of'Learn Python the Hard Way', reviewed my Solidity courses and worked a bit on my trading script.
 
+### R192
 
+Started chapter 6 of #cryptoZombies, some exercises in Python and continued to configure my trading script using NumPy
 
