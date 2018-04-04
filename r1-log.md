@@ -356,3 +356,6 @@ Completed the first exercises of'Learn Python the Hard Way', reviewed my Solidit
 
 Started chapter 6 of #cryptoZombies, some exercises in Python and continued to configure my trading script using NumPy
 
+### R1D93
+
+New Python exercises and backtesting of my trading script with Node.
