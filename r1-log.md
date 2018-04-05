@@ -359,3 +359,7 @@ Started chapter 6 of #cryptoZombies, some exercises in Python and continued to c
 ### R1D93
 
 New Python exercises and backtesting of my trading script with Node.
+
+### R1D94
+
+First half of Learn Python The Hard Way complete and continued testing my trading strategy with Node and some Python libraries.
