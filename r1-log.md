@@ -363,3 +363,7 @@ New Python exercises and backtesting of my trading script with Node.
 ### R1D94
 
 First half of Learn Python The Hard Way complete and continued testing my trading strategy with Node and some Python libraries.
+
+### R1D95
+
+Python - Further exercises and data exploration with Pandas and Matplotlib.
