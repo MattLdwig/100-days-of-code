@@ -367,3 +367,6 @@ First half of Learn Python The Hard Way complete and continued testing my tradin
 ### R1D95
 
 Python - Further exercises and data exploration with Pandas and Matplotlib.
+
+### R1D96
+Cryptocurrencies Data Analysis with Pandas & Matplotlib.
