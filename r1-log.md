@@ -370,3 +370,6 @@ Python - Further exercises and data exploration with Pandas and Matplotlib.
 
 ### R1D96
 Cryptocurrencies Data Analysis with Pandas & Matplotlib.
+
+### R1D97
+Hello World Smart Contract with Truffle and Solidity.
