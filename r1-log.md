@@ -373,3 +373,6 @@ Cryptocurrencies Data Analysis with Pandas & Matplotlib.
 
 ### R1D97
 Hello World Smart Contract with Truffle and Solidity.
+
+### R1D98
+Backtesting Data Exploration with Pandas and Data Visualization with matplotlib. 
