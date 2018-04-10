@@ -376,3 +376,6 @@ Hello World Smart Contract with Truffle and Solidity.
 
 ### R1D98
 Backtesting Data Exploration with Pandas and Data Visualization with matplotlib. 
+
+### R1D99
+Improved my trading strategy with some JS adjustments and new backtest session with node.
