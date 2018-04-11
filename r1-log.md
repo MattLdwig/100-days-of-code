@@ -379,3 +379,6 @@ Backtesting Data Exploration with Pandas and Data Visualization with matplotlib.
 
 ### R1D99
 Improved my trading strategy with some JS adjustments and new backtest session with node.
+
+### R1D100
+Challenge Completed ! Cleaning and analysis of backtesting data with Pandas. Started working on my first Solidity contract. 
